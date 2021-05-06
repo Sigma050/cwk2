@@ -238,3 +238,4 @@ SDL_Renderer *createRenderer(SDL_Window *window){
 
     return renderer;
 }
+
